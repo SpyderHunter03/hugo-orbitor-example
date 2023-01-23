@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseurl = "http://orbitor.tristangoetz.me"
+baseurl = "https://orbitor.tristangoetz.me"
 languageCode = "en-us"
 title = "Orbitor Hugo - Software Company Template"
 theme = "orbitor-hugo"
